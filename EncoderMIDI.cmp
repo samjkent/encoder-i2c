@@ -1,0 +1,1211 @@
+Cmp-Mod V01 Created by PcbNew   date = Tuesday, 21 January 2020 at 11:45:14
+
+BeginCmp
+TimeStamp = 5D1C9467
+Path = /5D49FDC7/5D4A0C2B
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C947A
+Path = /5D49FDC7/5D4A0C63
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C948D
+Path = /5D49FDC7/5D4A0C9B
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C94A0
+Path = /5D49FDC7/5D4A0CD3
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C94B3
+Path = /5D49FDC7/5D4A0D0B
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C94C6
+Path = /5D49FDC7/5D4A0D43
+Reference = D6;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C94D9
+Path = /5D49FDC7/5D4A0D7B
+Reference = D7;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C94EC
+Path = /5D49FDC7/5D4A0DB3
+Reference = D8;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C94FF
+Path = /5D49FDC7/5D4A0DF2
+Reference = D9;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C9512
+Path = /5D49FDC7/5D4A0E2A
+Reference = D10;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C9525
+Path = /5D49FDC7/5D4A0E62
+Reference = D11;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C9538
+Path = /5D49FDC7/5D4A0E9A
+Reference = D12;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C954B
+Path = /5D49FDC7/5D4A0ED2
+Reference = D13;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C955E
+Path = /5D49FDC7/5D4A0F0A
+Reference = D14;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C9571
+Path = /5D49FDC7/5D4A0F42
+Reference = D15;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C9584
+Path = /5D49FDC7/5D4A0F7A
+Reference = D16;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C9597
+Path = /5D49FDC7/5D4A0C32
+Reference = D17;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C95AA
+Path = /5D49FDC7/5D4A0C6A
+Reference = D18;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C95BD
+Path = /5D49FDC7/5D4A0CA2
+Reference = D19;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C95D0
+Path = /5D49FDC7/5D4A0CDA
+Reference = D20;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C95E3
+Path = /5D49FDC7/5D4A0D12
+Reference = D21;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C95F6
+Path = /5D49FDC7/5D4A0D4A
+Reference = D22;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C9609
+Path = /5D49FDC7/5D4A0D82
+Reference = D23;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C961C
+Path = /5D49FDC7/5D4A0DBA
+Reference = D24;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C962F
+Path = /5D49FDC7/5D4A0DF9
+Reference = D25;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C9642
+Path = /5D49FDC7/5D4A0E31
+Reference = D26;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C9655
+Path = /5D49FDC7/5D4A0E69
+Reference = D27;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C9668
+Path = /5D49FDC7/5D4A0EA1
+Reference = D28;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C967B
+Path = /5D49FDC7/5D4A0ED9
+Reference = D29;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C968E
+Path = /5D49FDC7/5D4A0F11
+Reference = D30;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C96A1
+Path = /5D49FDC7/5D4A0F49
+Reference = D31;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C96B4
+Path = /5D49FDC7/5D4A0F81
+Reference = D32;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C96C7
+Path = /5D49FDC7/5D4A0C39
+Reference = D33;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C96DA
+Path = /5D49FDC7/5D4A0C71
+Reference = D34;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C96ED
+Path = /5D49FDC7/5D4A0CA9
+Reference = D35;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C9700
+Path = /5D49FDC7/5D4A0CE1
+Reference = D36;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C9713
+Path = /5D49FDC7/5D4A0D19
+Reference = D37;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C9726
+Path = /5D49FDC7/5D4A0D51
+Reference = D38;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C9739
+Path = /5D49FDC7/5D4A0D89
+Reference = D39;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C974C
+Path = /5D49FDC7/5D4A0DC1
+Reference = D40;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C975F
+Path = /5D49FDC7/5D4A0E00
+Reference = D41;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C9772
+Path = /5D49FDC7/5D4A0E38
+Reference = D42;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C9785
+Path = /5D49FDC7/5D4A0E70
+Reference = D43;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C9798
+Path = /5D49FDC7/5D4A0EA8
+Reference = D44;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C97AB
+Path = /5D49FDC7/5D4A0EE0
+Reference = D45;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C97BE
+Path = /5D49FDC7/5D4A0F18
+Reference = D46;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C97D1
+Path = /5D49FDC7/5D4A0F50
+Reference = D47;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C97E4
+Path = /5D49FDC7/5D4A0F88
+Reference = D48;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C97F7
+Path = /5D49FDC7/5D4A0C40
+Reference = D49;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C980A
+Path = /5D49FDC7/5D4A0C78
+Reference = D50;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C981D
+Path = /5D49FDC7/5D4A0CB0
+Reference = D51;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C9830
+Path = /5D49FDC7/5D4A0CE8
+Reference = D52;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C9843
+Path = /5D49FDC7/5D4A0D20
+Reference = D53;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C9856
+Path = /5D49FDC7/5D4A0D58
+Reference = D54;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C9869
+Path = /5D49FDC7/5D4A0D90
+Reference = D55;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C987C
+Path = /5D49FDC7/5D4A0DC8
+Reference = D56;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C988F
+Path = /5D49FDC7/5D4A0E07
+Reference = D57;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C98A2
+Path = /5D49FDC7/5D4A0E3F
+Reference = D58;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C98B5
+Path = /5D49FDC7/5D4A0E77
+Reference = D59;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C98C8
+Path = /5D49FDC7/5D4A0EAF
+Reference = D60;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C98DB
+Path = /5D49FDC7/5D4A0EE7
+Reference = D61;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C98EE
+Path = /5D49FDC7/5D4A0F1F
+Reference = D62;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C9901
+Path = /5D49FDC7/5D4A0F57
+Reference = D63;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D1C9914
+Path = /5D49FDC7/5D4A0F8F
+Reference = D64;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D40148D
+Path = /5D49FDC7/5D4A0C47
+Reference = D65;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D4014A0
+Path = /5D49FDC7/5D4A0C7F
+Reference = D66;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D4014B3
+Path = /5D49FDC7/5D4A0CB7
+Reference = D67;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D4014C6
+Path = /5D49FDC7/5D4A0CEF
+Reference = D68;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D4014D9
+Path = /5D49FDC7/5D4A0D27
+Reference = D69;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D4014EC
+Path = /5D49FDC7/5D4A0D5F
+Reference = D70;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D4014FF
+Path = /5D49FDC7/5D4A0D97
+Reference = D71;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D401512
+Path = /5D49FDC7/5D4A0DCF
+Reference = D72;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D401525
+Path = /5D49FDC7/5D4A0E0E
+Reference = D73;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D401538
+Path = /5D49FDC7/5D4A0E46
+Reference = D74;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D40154B
+Path = /5D49FDC7/5D4A0E7E
+Reference = D75;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D40155E
+Path = /5D49FDC7/5D4A0EB6
+Reference = D76;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D401571
+Path = /5D49FDC7/5D4A0EEE
+Reference = D77;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D401584
+Path = /5D49FDC7/5D4A0F26
+Reference = D78;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D401597
+Path = /5D49FDC7/5D4A0F5E
+Reference = D79;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D4015AA
+Path = /5D49FDC7/5D4A0F96
+Reference = D80;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D4015BD
+Path = /5D49FDC7/5D4A0C4E
+Reference = D81;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D4015D0
+Path = /5D49FDC7/5D4A0C86
+Reference = D82;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D4015E3
+Path = /5D49FDC7/5D4A0CBE
+Reference = D83;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D4015F6
+Path = /5D49FDC7/5D4A0CF6
+Reference = D84;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D401609
+Path = /5D49FDC7/5D4A0D2E
+Reference = D85;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D40161C
+Path = /5D49FDC7/5D4A0D66
+Reference = D86;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D40162F
+Path = /5D49FDC7/5D4A0D9E
+Reference = D87;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D401642
+Path = /5D49FDC7/5D4A0DD6
+Reference = D88;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D401655
+Path = /5D49FDC7/5D4A0E15
+Reference = D89;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D401668
+Path = /5D49FDC7/5D4A0E4D
+Reference = D90;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D40167B
+Path = /5D49FDC7/5D4A0E85
+Reference = D91;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D40168E
+Path = /5D49FDC7/5D4A0EBD
+Reference = D92;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D4016A1
+Path = /5D49FDC7/5D4A0EF5
+Reference = D93;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D4016B4
+Path = /5D49FDC7/5D4A0F2D
+Reference = D94;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D4016C7
+Path = /5D49FDC7/5D4A0F65
+Reference = D95;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D4016DA
+Path = /5D49FDC7/5D4A0F9D
+Reference = D96;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D4016ED
+Path = /5D49FDC7/5D4A0C55
+Reference = D97;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D401700
+Path = /5D49FDC7/5D4A0C8D
+Reference = D98;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D401713
+Path = /5D49FDC7/5D4A0CC5
+Reference = D99;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D401726
+Path = /5D49FDC7/5D4A0CFD
+Reference = D100;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D401739
+Path = /5D49FDC7/5D4A0D35
+Reference = D101;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D40174C
+Path = /5D49FDC7/5D4A0D6D
+Reference = D102;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D40175F
+Path = /5D49FDC7/5D4A0DA5
+Reference = D103;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D401772
+Path = /5D49FDC7/5D4A0DDD
+Reference = D104;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D401785
+Path = /5D49FDC7/5D4A0E1C
+Reference = D105;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D401798
+Path = /5D49FDC7/5D4A0E54
+Reference = D106;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D4017AB
+Path = /5D49FDC7/5D4A0E8C
+Reference = D107;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D4017BE
+Path = /5D49FDC7/5D4A0EC4
+Reference = D108;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D4017D1
+Path = /5D49FDC7/5D4A0EFC
+Reference = D109;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D4017E4
+Path = /5D49FDC7/5D4A0F34
+Reference = D110;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D4017F7
+Path = /5D49FDC7/5D4A0F6C
+Reference = D111;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D40180A
+Path = /5D49FDC7/5D4A0FA4
+Reference = D112;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D40181D
+Path = /5D49FDC7/5D4A0C5C
+Reference = D113;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D401830
+Path = /5D49FDC7/5D4A0C94
+Reference = D114;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D401843
+Path = /5D49FDC7/5D4A0CCC
+Reference = D115;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D401856
+Path = /5D49FDC7/5D4A0D04
+Reference = D116;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D401869
+Path = /5D49FDC7/5D4A0D3C
+Reference = D117;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D40187C
+Path = /5D49FDC7/5D4A0D74
+Reference = D118;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D40188F
+Path = /5D49FDC7/5D4A0DAC
+Reference = D119;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D4018A2
+Path = /5D49FDC7/5D4A0DE4
+Reference = D120;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D4018B5
+Path = /5D49FDC7/5D4A0E23
+Reference = D121;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D4018C8
+Path = /5D49FDC7/5D4A0E5B
+Reference = D122;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D4018DB
+Path = /5D49FDC7/5D4A0E93
+Reference = D123;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D4018EE
+Path = /5D49FDC7/5D4A0ECB
+Reference = D124;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D401901
+Path = /5D49FDC7/5D4A0F03
+Reference = D125;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D401914
+Path = /5D49FDC7/5D4A0F3B
+Reference = D126;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D401927
+Path = /5D49FDC7/5D4A0F73
+Reference = D127;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D40193A
+Path = /5D49FDC7/5D4A0FAB
+Reference = D128;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5DFA0704
+Path = /5D49FDC7/5DE96560
+Reference = J2;
+ValeurCmp = Conn_01x10_Female;
+IdModule  = Rotary_Encoder:EAW0J;
+EndCmp
+
+BeginCmp
+TimeStamp = 5DF9B9B9
+Path = /5D49FDC7/5DFB16FF
+Reference = D513;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5DF9BA98
+Path = /5D49FDC7/5DFE6C68
+Reference = R3;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5DFBC30B
+Path = /5D49FDC7/5DF9E27A
+Reference = SW1;
+ValeurCmp = SW_Push;
+IdModule  = Button_Switch_THT:SW_PUSH_6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5DFB6CC7
+Path = /5D49FDC7/5DE9622F
+Reference = U1;
+ValeurCmp = MCP23017-E_SP;
+IdModule  = Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E00BAF7
+Path = /5E049A7D
+Reference = JP1;
+ValeurCmp = A1;
+IdModule  = Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E00BB09
+Path = /5E0475DA
+Reference = JP2;
+ValeurCmp = A2;
+IdModule  = Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E00BB1B
+Path = /5E04A5AF
+Reference = JP3;
+ValeurCmp = A0;
+IdModule  = Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E00BB2A
+Path = /5E0507BD
+Reference = R1;
+ValeurCmp = 4.7K;
+IdModule  = Resistor_SMD:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E00BB39
+Path = /5E050CCD
+Reference = R2;
+ValeurCmp = 4.7K;
+IdModule  = Resistor_SMD:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E00F220
+Path = /5E094A68
+Reference = J4;
+ValeurCmp = EXT_BUS;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E00F23A
+Path = /5E0B6BDF
+Reference = J5;
+ValeurCmp = Conn_01x08_Female;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E00F31E
+Path = /5D49FDC7/5E3B13CB
+Reference = J3;
+ValeurCmp = Conn_01x06_Female;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E14025F
+Path = /5D49FDC7/5D4A0DEB
+Reference = J1;
+ValeurCmp = HT16K33;
+IdModule  = Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E14045A
+Path = /5D49FDC7/5E2D754B
+Reference = JP4;
+ValeurCmp = A2;
+IdModule  = Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E1402AC
+Path = /5D49FDC7/5E2D8754
+Reference = JP5;
+ValeurCmp = A1;
+IdModule  = Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E1402BA
+Path = /5D49FDC7/5E2D9DC4
+Reference = JP6;
+ValeurCmp = A0;
+IdModule  = Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E1402C9
+Path = /5D49FDC7/5E21DF55
+Reference = R4;
+ValeurCmp = 39K;
+IdModule  = Resistor_SMD:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E1402D8
+Path = /5D49FDC7/5E21F289
+Reference = R5;
+ValeurCmp = 39K;
+IdModule  = Resistor_SMD:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E1402E7
+Path = /5D49FDC7/5E220525
+Reference = R6;
+ValeurCmp = 39K;
+IdModule  = Resistor_SMD:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E14AFF2
+Path = /5D49FDC7/5E1A6387
+Reference = D129;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123F;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E279664
+Path = /5E79F624
+Reference = JP7;
+ValeurCmp = SolderJumper_2_Bridged;
+IdModule  = Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_RoundedPad1.0x1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E279678
+Path = /5E79E608
+Reference = JP8;
+ValeurCmp = SolderJumper_2_Bridged;
+IdModule  = Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_RoundedPad1.0x1.5mm;
+EndCmp
+
+EndListe
